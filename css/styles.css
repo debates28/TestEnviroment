@@ -1,17 +1,56 @@
-p {
+body p {
     font-size: 36px;
+    font-family: 'Oxygen', sans-serif;
+    font-weight: 500;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+hr {
+    background-color: beige;
+    opacity: 80%;
+    padding-bottom: .2rem;
+    width: 50%;
+    margin: 0 auto;
 }
 
 body {
     background-color: #6F8FAF;
 }
 
-h2 {
+body h2 {
+    font-size: 61.04px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    font-family: 'BioRhyme', serif;
+}
+
+body h3 {
     padding-top: 20px;
     padding-bottom: 20px;
 }
 
-.h3 {
-    padding-top: 20px;
-    padding-bottom: 20px;
+.navbar {
+    background-color: #6F8FAF;
+}
+
+.navbar ul {
+    font-size: 28.43px;
+    margin: auto;
+}
+
+.nav-link {
+    
+    
+}
+
+.img-fluid {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+li a:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+    text-underline-offset: 5px;
 }
