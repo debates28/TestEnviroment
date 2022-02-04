@@ -30,6 +30,9 @@ body h3 {
     padding-bottom: 20px;
 }
 
+.btn {
+    margin-bottom: 50px;
+}
 .navbar {
     background-color: #6F8FAF;
 }
@@ -39,9 +42,8 @@ body h3 {
     margin: auto;
 }
 
-.nav-link {
-    
-    
+.video-content {
+    margin-bottom: 100px;
 }
 
 .img-fluid {
